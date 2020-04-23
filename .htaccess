@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteRule ^post$ /postgre/post.php
+RewriteRule ^index$ /postgre/index.html
+RewriteRule ^calendar$ /postgre/calendar.php
+RewriteRule ^empleados$ /postgre/empleados.php
+RewriteRule ^pdfto$ /postgre/pdfto.php
+
